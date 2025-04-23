@@ -34,7 +34,7 @@
 ## 📫 Контакты
 
 <p align="center">
-  <a href="https://t.me/dontworrysoul">
+  <a href="https://t.me/AyukiDev">
     <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://github.com/ayukistudio">
