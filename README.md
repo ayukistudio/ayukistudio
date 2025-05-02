@@ -2,8 +2,8 @@
 
 <img src="https://i.ibb.co/7JVHYpL4/1.png" width="100" alt="AyukiDev" style="border-radius:50%; margin-bottom: 12px;" />
 
-# Александр Егоренко  
-**@AyukiDev**  
+# AyukiDev
+**Александр Егоренко**  
 📍 Ростов-на-Дону
 
 </div>
