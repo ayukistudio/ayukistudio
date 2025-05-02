@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://i.ibb.co/7JVHYpL4/1.png" width="100" alt="AyukiDev" style="border-radius:50%; margin-bottom: 12px;" />
+<picture>
+  <source srcset="https://github.com/ayukistudio/ayukistudio/blob/main/darktheme.png?raw=true" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github.com/ayukistudio/ayukistudio/blob/main/whitetheme.png?raw=true" media="(prefers-color-scheme: light)">
+  <img src="https://github.com/ayukistudio/ayukistudio/blob/main/whitetheme.png?raw=true" width="100" alt="AyukiDev" style="border-radius:50%; margin-bottom: 12px;" />
+</picture>
 
 # Александр Егоренко
 **@AyukiDev**  
