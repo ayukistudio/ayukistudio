@@ -3,7 +3,7 @@
 <picture>
   <source srcset="https://github.com/ayukistudio/ayukistudio/blob/main/darktheme.png?raw=true" media="(prefers-color-scheme: dark)">
   <source srcset="https://github.com/ayukistudio/ayukistudio/blob/main/whitetheme.png?raw=true" media="(prefers-color-scheme: light)">
-  <img src="https://github.com/ayukistudio/ayukistudio/blob/main/whitetheme.png?raw=true" width="100" alt="AyukiDev" style="border-radius:50%; margin-bottom: 12px;" />
+  <img src="https://github.com/ayukistudio/ayukistudio/blob/main/whitetheme.png?raw=true" width="180" alt="AyukiDev" style="border-radius:50%; margin-bottom: 16px;" />
 </picture>
 
 # Александр Егоренко
