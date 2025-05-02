@@ -27,6 +27,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" width="40" title="VB.NET"/>
 </p>
 
+<br>
+<img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayukistudio&langs_count=8&theme=react&layout=compact">
+<br>
+
 ---
 
 ## 📬 Связаться со мной
